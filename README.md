@@ -1,1 +1,8 @@
 # nut-nhan-_-YDDS
+
+Nút nhấn yêu đi đừng sợ
+c# nhận tín hiệu từ nút nhấn điều khiển phần mềm vmix
+
+// A: 0x00,0x11,0x0c
+// B: 0x00,0x22,0x0c
+//master: 0x00,0x00,0x0c
