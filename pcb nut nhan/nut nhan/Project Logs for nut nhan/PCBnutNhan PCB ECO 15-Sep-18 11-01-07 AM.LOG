@@ -1,0 +1,47 @@
+Added Component: Designator=l1(lora sx1278)
+Added Component: Designator=LED1(LED-5-RED)
+Added Component: Designator=LED2(LED-5-RED)
+Added Component: Designator=P1(HDR1X4)
+Added Component: Designator=R1(R1/4W)
+Added Component: Designator=R2(R1/4W)
+Added Component: Designator=stm1(40chan)
+Added Pin To Net: NetName=3V3 Pin=l1-7
+Added Pin To Net: NetName=3V3 Pin=stm1-40
+Added Net: Name=3V3
+Added Pin To Net: NetName=GND Pin=l1-1
+Added Pin To Net: NetName=GND Pin=l1-2
+Added Pin To Net: NetName=GND Pin=l1-6
+Added Pin To Net: NetName=GND Pin=LED1-2
+Added Pin To Net: NetName=GND Pin=LED2-2
+Added Pin To Net: NetName=GND Pin=P1-1
+Added Pin To Net: NetName=GND Pin=stm1-39
+Added Net: Name=GND
+Added Pin To Net: NetName=Netl1_3 Pin=l1-3
+Added Pin To Net: NetName=Netl1_3 Pin=stm1-7
+Added Net: Name=Netl1_3
+Added Pin To Net: NetName=Netl1_4 Pin=l1-4
+Added Pin To Net: NetName=Netl1_4 Pin=stm1-8
+Added Net: Name=Netl1_4
+Added Pin To Net: NetName=NetLED1_1 Pin=LED1-1
+Added Pin To Net: NetName=NetLED1_1 Pin=R1-2
+Added Net: Name=NetLED1_1
+Added Pin To Net: NetName=NetLED2_1 Pin=LED2-1
+Added Pin To Net: NetName=NetLED2_1 Pin=R2-2
+Added Net: Name=NetLED2_1
+Added Pin To Net: NetName=NetP1_2 Pin=P1-2
+Added Pin To Net: NetName=NetP1_2 Pin=stm1-38
+Added Net: Name=NetP1_2
+Added Pin To Net: NetName=NetP1_3 Pin=P1-3
+Added Pin To Net: NetName=NetP1_3 Pin=stm1-27
+Added Net: Name=NetP1_3
+Added Pin To Net: NetName=NetP1_4 Pin=P1-4
+Added Pin To Net: NetName=NetP1_4 Pin=stm1-26
+Added Net: Name=NetP1_4
+Added Pin To Net: NetName=NetR1_1 Pin=R1-1
+Added Pin To Net: NetName=NetR1_1 Pin=stm1-22
+Added Net: Name=NetR1_1
+Added Pin To Net: NetName=NetR2_1 Pin=R2-1
+Added Pin To Net: NetName=NetR2_1 Pin=stm1-21
+Added Net: Name=NetR2_1
+Added Class: Name=nutnhanguyen ly
+Added Room: Name=nutnhanguyen ly

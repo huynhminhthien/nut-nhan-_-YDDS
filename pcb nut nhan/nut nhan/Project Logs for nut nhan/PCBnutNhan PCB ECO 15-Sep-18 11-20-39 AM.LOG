@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=GND Pin=l1-6
+Removed Pin From Net: NetName=3V3 Pin=l1-7
+Added Pin To Net: NetName=3V3 Pin=l1-6
+Added Pin To Net: NetName=GND Pin=l1-7
+Added Room: Name=nutnhanguyen ly
